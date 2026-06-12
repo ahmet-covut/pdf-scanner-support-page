@@ -25,4 +25,4 @@ Is my data stored in the cloud?
 No. All documents and scans stay on your device only.
 
 Privacy Policy
-[Link to your privacy policy page]
+https://ahmet-covut.github.io/pdf-scanner-privacy-policy
